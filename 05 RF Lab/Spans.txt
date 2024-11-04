@@ -1,0 +1,4 @@
+1000 kHz	Span: 20 MHz
+100 kHz		Span: 2 MHz
+10 kHz		Span: 100 kHz
+1 kHz		Span: 10 kHz
